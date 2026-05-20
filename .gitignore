@@ -4,3 +4,4 @@ __pycache__/
 logs.db
 *.db-journal
 .env
+dashboard/node_modules/
