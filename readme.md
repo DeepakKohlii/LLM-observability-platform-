@@ -2,6 +2,17 @@
 
 Observability for LLM apps — trace every call, see cost and latency on a live dashboard.
 
+## Screenshots
+
+### Landing page
+![Landing page](docs/screenshots/landing.png)
+
+### Dashboard
+![Dashboard — metrics, charts, and recent traces](docs/screenshots/dashboard.png)
+
+### Chat Playground (guest demo)
+![Chat Playground — try LLM calls with 5 free guest requests](docs/screenshots/chat.png)
+
 ## Quick start (web)
 
 **Backend**
