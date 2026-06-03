@@ -5,6 +5,18 @@ logs.db
 *.db-journal
 .env
 dashboard/node_modules/
+.DS_Store
+.vscode
+llm-observe-ui/node_modules
+llm-observe-ui/dist
+llm-observe-ui/dist-ssr
+llm-observe-ui/*.local
+llm-observe-ui/*.log
+llm-observe-ui/npm-debug.log*
+llm-observe-ui/yarn-debug.log*
+llm-observe-ui/yarn-error.log*
+llm-observe-ui/pnpm-debug.log*
+llm-observe-ui/lerna-debug.log*
 
 
 
